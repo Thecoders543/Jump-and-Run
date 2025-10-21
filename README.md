@@ -24,5 +24,6 @@ Version: 1.1.4 Weitere Level hinzugefügt
 Dieses Projekt wird vorgestellt und kann auf weiteres nicht bearbeitet werden. Bei weiteren Updates melden wir uns!
 
 Bei Vorschlägen, Bugs oder verbesserungen können Sie sich gerne bei uns unter thecoders543@gmail.com melden.
+
 Besten Dank
 Ihr The_Coders Team
